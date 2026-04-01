@@ -1,4 +1,4 @@
-
+package LeetCode.java;
 class Solution {
     public int RemoveElement(int[] nums, int val) {
         int ind =  0;

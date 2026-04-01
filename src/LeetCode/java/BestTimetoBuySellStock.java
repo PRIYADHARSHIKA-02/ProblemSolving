@@ -1,3 +1,5 @@
+package LeetCode.java;
+
 public class BestTimetoBuySellStock {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
