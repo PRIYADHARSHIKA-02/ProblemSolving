@@ -1,4 +1,4 @@
-package LeetCode.java;
+package LeetCode.java.Array.Easy;
 
 public class BestTimetoBuySellStock {
     public int maxProfit(int[] prices) {
@@ -20,3 +20,4 @@ public class BestTimetoBuySellStock {
 }
 
 //O(n) Time complexity and O(1) Space complexity
+

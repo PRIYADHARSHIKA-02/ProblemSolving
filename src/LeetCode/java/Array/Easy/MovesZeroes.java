@@ -1,5 +1,5 @@
-package LeetCode.java;
-class Solution {
+package LeetCode.java.Array.Easy;
+class MovesZeroes {
     public void moveZeroes(int[] nums) {
         int insert = 0;
         for(int i = 0; i < nums.length; i++){
@@ -15,3 +15,4 @@ class Solution {
         
 }
 }
+

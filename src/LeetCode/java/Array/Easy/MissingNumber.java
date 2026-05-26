@@ -1,4 +1,4 @@
-package LeetCode.java;
+package LeetCode.java.Array.Easy;
 
 public class MissingNumber {
     public int missingNumber(int[] nums) {
@@ -13,3 +13,5 @@ public class MissingNumber {
     
 }
 }
+
+

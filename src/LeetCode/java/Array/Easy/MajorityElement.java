@@ -1,4 +1,4 @@
-package LeetCode.java;
+package LeetCode.java.Array.Easy;
 
 public class MajorityElement {
         public int majorityElement(int[] nums){
@@ -16,3 +16,5 @@ public class MajorityElement {
           return maj;
     }
 }
+
+

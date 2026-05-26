@@ -1,8 +1,8 @@
-package LeetCode.java;
+package LeetCode.java.Array.Medium;
 
 import java.util.Arrays;
 
-class Solution {
+class ThreesumClosest {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int resultsum = nums[0] + nums[1] +nums[2];
@@ -29,3 +29,4 @@ class Solution {
         return resultsum;
     }
 }
+

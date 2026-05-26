@@ -1,6 +1,6 @@
-package LeetCode.java;
+package LeetCode.java.Array.Easy;
 
-class Solution {
+class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m -1;
         int j = n-1;
@@ -29,3 +29,4 @@ class Solution {
 // Space Complexity:
 // Only three integer variables (i, j, p) are used → no extra array → O(1).
   
+

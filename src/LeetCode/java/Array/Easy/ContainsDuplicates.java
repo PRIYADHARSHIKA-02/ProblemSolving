@@ -1,4 +1,4 @@
-package LeetCode.java;
+package LeetCode.java.Array.Easy;
 
 import java.util.*;
 
@@ -33,3 +33,4 @@ public class ContainsDuplicates {
 }
     // Time Complexity - O(n) where n is the number of elements in the array.
     // Space Complexity - O(n) in the worst case when all elements are unique.
+

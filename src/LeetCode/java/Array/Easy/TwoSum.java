@@ -1,4 +1,4 @@
-package LeetCode.java;
+package LeetCode.java.Array.Easy;
 
 import java.util.*;
 
@@ -36,3 +36,5 @@ public class TwoSum {
         return new int[]{};
     }
 }
+
+

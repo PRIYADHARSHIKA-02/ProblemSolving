@@ -1,4 +1,4 @@
-package LeetCode.java;
+package LeetCode.java.Array.Medium;
 
 public class MaxiSubarray {
 
@@ -14,3 +14,5 @@ public class MaxiSubarray {
         return maxSum;
     }
     }
+
+

@@ -1,7 +1,7 @@
-package LeetCode.java;
+package LeetCode.java.Array.Medium;
 import java.util.*;
 
-class Solution {
+class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         if(nums == null || nums.length < 3) return new ArrayList<>();
         Arrays.sort(nums);
@@ -24,3 +24,4 @@ class Solution {
         }return new ArrayList<>(result);
     }
 }
+
